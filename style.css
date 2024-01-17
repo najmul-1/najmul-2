@@ -295,7 +295,7 @@ main{
     display: flex;
     background-repeat: no-repeat !important;
     background-size: cover !important;
-    background: url(./images/Rectangle\ 5.png);
+    background: url(./Images/Rectangle\ 5.png);
 }
 
 .Choose-B-A{
@@ -305,7 +305,7 @@ main{
     display: flex;
     background-repeat: no-repeat !important;
     background-size: cover !important;
-    background: url(./images/Rectangle\ 8.png);
+    background: url(./Images/Rectangle\ 8.png);
 }
 
 .Choose-B{
@@ -335,7 +335,7 @@ main{
     background-position: center center !important;display: flex;
     justify-content: center;
     align-items: center;
-    background: url(./images/Rectangle\ 7.png);
+    background: url(./Images/Rectangle\ 7.png);
     width: calc(100% - 25px);
 }
 
@@ -343,7 +343,8 @@ main{
     background-position: center!important;
     background-repeat: no-repeat !important;
     background-size: cover !important;
-    background: url(./Images/Rectangle\ 9.png);display: flex;
+    background: url(./Images/Rectangle\ 9.png);
+    display: flex;
     justify-content: center;
     align-items: center;
 }
@@ -365,7 +366,7 @@ main{
     display: flex;
     background-repeat: no-repeat !important;
     background-size: cover !important;
-    background: url(./images/Rectangle\ 11.png);
+    background: url(./Images/Rectangle\ 11.png);
 }
 
 .Choose-C-C{
@@ -374,7 +375,7 @@ main{
     display: flex;
     background-repeat: no-repeat !important;
     background-size: cover !important;
-    background: url(./images/Rectangle\ 10.png);
+    background: url(./Images/Rectangle\ 10.png);
     width: calc(100% - 25px);
 }
 
@@ -524,7 +525,7 @@ main{
     justify-content: end;
     align-items: center;
     display: flex;
-    background: url(./images/Rectangle\ 12.png);
+    background: url(./Images/Rectangle\ 12.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -532,7 +533,7 @@ main{
 .Deals-b{
     justify-content: start;
     align-items: center;
-    background: url(./images/Rectangle\ 12\ \(1\).png);
+    background: url(./Images/Rectangle\ 12\ \(1\).png);
 }
 
 .Deals-a div{
